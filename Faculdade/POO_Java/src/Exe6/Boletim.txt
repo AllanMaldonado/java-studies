@@ -1,0 +1,9 @@
+
+#Eleição para o DA
+Candidato0: Pelé 7 votos (70%)
+
+#Eleição para o DA
+Candidato1: Maradona 0 votos (0%)
+
+#Eleição para o DA
+Candidato2: Ronaldo 3 votos (30%)
